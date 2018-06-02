@@ -1,5 +1,3 @@
-using System;
-
 namespace UltraWeightMonitor.Web.Models
 {
     public class ErrorViewModel
